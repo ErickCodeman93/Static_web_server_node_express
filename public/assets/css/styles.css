@@ -1,0 +1,9 @@
+footer{
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+
+.section-first {
+	margin-top: 3em;
+}
